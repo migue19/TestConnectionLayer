@@ -1,0 +1,6 @@
+framework module Pods_TestConnectionLayer {
+  umbrella header "Pods-TestConnectionLayer-umbrella.h"
+
+  export *
+  module * { export * }
+}

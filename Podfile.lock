@@ -1,0 +1,16 @@
+PODS:
+  - ConnectionLayer (0.0.1)
+
+DEPENDENCIES:
+  - ConnectionLayer
+
+SPEC REPOS:
+  trunk:
+    - ConnectionLayer
+
+SPEC CHECKSUMS:
+  ConnectionLayer: b156467d30c9af17fc5a5b166c4e393f24f1616d
+
+PODFILE CHECKSUM: cbcafed3f9243e6a35ea68f64133968f13840c16
+
+COCOAPODS: 1.9.3
